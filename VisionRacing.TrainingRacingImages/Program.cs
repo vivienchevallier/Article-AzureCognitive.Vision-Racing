@@ -14,7 +14,6 @@ namespace VisionRacing.TrainingRacingImages
         static void Main(string[] args)
         {
             var trainingKey = "Your Custom Vision training key.";
-            trainingKey = "2c551f7e5e3b4383ba8aea4cd0a3d4bb";
 
             Start(trainingKey).Wait();
         }
