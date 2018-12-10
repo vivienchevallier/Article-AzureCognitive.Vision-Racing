@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionRacing.AnalyzeKartingImage", "VisionRacing.AnalyzeKartingImage\VisionRacing.AnalyzeKartingImage.csproj", "{0F84F973-DD11-4927-842E-7D8D36DF53E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisionRacing.AnalyzeKartingImage", "VisionRacing.AnalyzeKartingImage\VisionRacing.AnalyzeKartingImage.csproj", "{0F84F973-DD11-4927-842E-7D8D36DF53E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionRacing.TrainingRacingImages", "VisionRacing.TrainingRacingImages\VisionRacing.TrainingRacingImages.csproj", "{40B170C5-580A-41B5-8988-E12A7C9D7CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0F84F973-DD11-4927-842E-7D8D36DF53E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F84F973-DD11-4927-842E-7D8D36DF53E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F84F973-DD11-4927-842E-7D8D36DF53E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B170C5-580A-41B5-8988-E12A7C9D7CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B170C5-580A-41B5-8988-E12A7C9D7CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B170C5-580A-41B5-8988-E12A7C9D7CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B170C5-580A-41B5-8988-E12A7C9D7CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
